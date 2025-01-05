@@ -26,7 +26,7 @@ This project is a responsive calculator built with HTML, CSS, and JavaScript. It
 
 ## Usage
 
--Click the calculator buttons to perform arithmetic operations.
+-Click the calculator buttons to perform arithmetic operations.<br>
 -The calculator is responsive and will adjust its layout based on the screen size.
 
 ## Contributing
