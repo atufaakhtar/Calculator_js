@@ -16,11 +16,11 @@ This project is a responsive calculator built with HTML, CSS, and JavaScript. It
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/responsive-calculator.git
+   git clone https://github.com/atufaakhtar/Calculator_js.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd responsive-calculator
+   cd Calculator_js
    ```
 3. **Open index.html in your preferred web browser.**
 
